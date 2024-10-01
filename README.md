@@ -3,7 +3,7 @@
 
 💞️ I’m familiar with:  
 👮‍♀️ Technical skills:  
-- Languages/Frameworks**: Java, Spring, Maven, Hibernate, Apache Camel, REST APIs, SOAP Web Services, JavaScript  
+- Languages/Frameworks: Java, Spring, Maven, Hibernate, Apache Camel, REST APIs, SOAP Web Services, JavaScript  
 - Front end: HTML, CSS  
 - Databases: MySQL, MSSQL, Oracle  
 - Tools: GitHub, NetBeans, Visual Studio, Eclipse  
